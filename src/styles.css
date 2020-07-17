@@ -69,7 +69,7 @@ html {
 .add-btn.main-black-color:active {
   text-shadow: 1px 1px 2px var(--main-black-color);
 } */
-.todos {
+/* .todos {
   display: flex;
   flex-direction: column;
   min-height: 500px;
@@ -83,4 +83,4 @@ html {
 .add-button-placeholder-text {
   font-family: "Bungee", sans-serif;
   font-size: 24px;
-}
+} */
