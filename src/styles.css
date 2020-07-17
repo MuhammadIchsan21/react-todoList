@@ -23,7 +23,7 @@ html {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
-.container {
+/* .container {
   width: 600px;
   height: 800px;
   background-color: #f2eecb;
@@ -36,7 +36,7 @@ html {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-}
+} */
 
 .add {
   padding: 16px;
